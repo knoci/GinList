@@ -4,6 +4,5 @@
 ### 技术
 
 - gin 框架
-- docker创建SQL容器
 - gorm 操作PostgreSQL
 - ini 配置文件
